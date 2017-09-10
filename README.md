@@ -9,7 +9,7 @@ Just drag the `.h` and `.m` files to your project source.
 
 For most use cases, `UIAlertView` objects are shown with a cancel button. The methods `avhaw_hideAll` and `avhaw_hideAllAnimated:` make use of this, and thus can be convenient to use instead of `avhaw_enumerateAlertViewsWithBlock:`.
 
-You can use `avhaw_enumerateAlertViewsWithBlock` if you want to dismiss `UIAlertView` objects your way.
+You can use `avhaw_enumerateAlertViewsWithBlock:` if you want to dismiss `UIAlertView` objects your way.
 
 ## Why
 
