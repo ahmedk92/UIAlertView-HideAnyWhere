@@ -2,8 +2,8 @@
 //  UIAlertView+HideAnyWhere.h
 //  AlertHideDemo
 //
-//  Created by Arabia -IT on 9/10/17.
-//  Copyright © 2017 Arabia-IT. All rights reserved.
+//  Created by Ahmed Khalaf on 9/10/17.
+//  Copyright © 2017 Ahmed Khalaf. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
